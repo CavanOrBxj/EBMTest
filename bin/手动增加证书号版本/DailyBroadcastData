@@ -1,0 +1,6 @@
+﻿{
+  "0": "[{\"B_Daily_cmd_tag\":1,\"Program\":{\"NetID\":1,\"TSID\":1,\"ServiceID\":1,\"PCR_PID\":1,\"Program_PID\":1,\"Priority\":1,\"Volume\":90,\"EndTime\":\"2018-04-27T14:24:21\",\"B_Address_type\":1,\"list_Terminal_Address\":[\"222222222222222222\"]},\"B_Address_type\":1,\"EndTime\":\"2018/4/27 14:24:21\",\"NetID\":1,\"PCR_PID\":1,\"Priority\":1,\"Program_PID\":1,\"ServiceID\":1,\"TSID\":1,\"Volume\":90,\"Summary\":\"1/1/1/1/1/1/90/2018/4/27 14:24:21/逻辑地址/...\",\"BroadcastStatus\":\"已停止\",\"SendState\":false}]",
+  "1": "[{\"B_Daily_cmd_tag\":3,\"Program\":{\"Volume\":80,\"B_Address_type\":1,\"list_Terminal_Address\":[\"234234234343243444\"]},\"B_Address_type\":1,\"Volume\":80,\"Summary\":\"80/逻辑地址/...\",\"SendState\":true}]",
+  "2": "[{\"B_Daily_cmd_tag\":4,\"Program\":{\"B_Switch_status\":2,\"B_Address_type\":1,\"list_Terminal_Address\":[\"111111111213\"]},\"B_Address_type\":1,\"B_Switch_status\":2,\"Summary\":\"2/逻辑地址/111111111213...\",\"SendState\":false}]",
+  "3": "[{\"B_Daily_cmd_tag\":5,\"Program\":{\"B_Rds_terminal_type\":1,\"Br_Rds_data\":\"qqqqqqo=\",\"B_Address_type\":1,\"list_Terminal_Address\":[\"555555555555555555\"]},\"B_Address_type\":1,\"B_Rds_terminal_type\":1,\"RdsDataText\":\"AA AA AA AA AA\",\"Summary\":\"应急广播适配器/AA AA AA AA AA/逻辑地址/...\",\"SendState\":false}]"
+}

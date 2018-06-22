@@ -1,0 +1,4 @@
+{
+  "MediaStreamer": "{\r\n  \"MediaPath\": \"\",\r\n  \"MediaIP\": \"\",\r\n  \"MediaPort\": \"\",\r\n  \"MediaAudioPID\": \"\",\r\n  \"MediaVideoPID\": \"\",\r\n  \"MediaVideoRate\": \"\",\r\n  \"MediaAudioRate\": \"\"\r\n}",
+  "IndexFirstInit": "False"
+}

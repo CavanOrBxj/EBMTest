@@ -1,0 +1,4 @@
+﻿{
+  "0": "[{\"SendState\":true,\"EBM_ID\":\"555555555555555555555555555555\",\"SectionName\":\"56777\",\"Guid\":\"98945587-de5e-49c5-b8e6-fc347e610de8\"}]",
+  "1": "[{\"Guid\":\"98945587-de5e-49c5-b8e6-fc347e610de8\",\"EBM_ID\":\"555555555555555555555555555555\",\"SectionName\":\"56777\",\"MultilangualContent\":{\"S_language_code\":\"zho\",\"B_code_character_set\":0,\"B_message_text\":\"NTY3NTY=\",\"S_agency_name\":null,\"list_auxiliary_data\":null},\"B_code_character_set\":0,\"B_message_text\":\"NTY3NTY=\",\"S_language_code\":\"zho\",\"MessageText\":\"56756\",\"list_auxiliary_data\":[{\"Type\":45,\"DisplayData\":\"D:\\\\testdata\\\\适配器唤醒指令.txt\",\"TypeString\":\"RDS编码数据\"}]}]"
+}

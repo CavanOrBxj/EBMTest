@@ -1,0 +1,48 @@
+2017/11/23 9:24:22  Main(Exception)：   在 System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   在 EBMTest.EBMMain.InitStreamTable() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 175
+   在 EBMTest.EBMMain..ctor() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 83
+   在 EBMTest.Program.Main(String[] args) 位置 d:\ProjectDoc\software\EBMTest\Program.cs:行号 47
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017/11/23 9:25:52  Main(Exception)：   在 System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   在 EBMTest.EBMMain.InitStreamTable() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 175
+   在 EBMTest.EBMMain..ctor() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 83
+   在 EBMTest.Program.Main(String[] args) 位置 d:\ProjectDoc\software\EBMTest\Program.cs:行号 47
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017/11/23 9:26:27  Main(Exception)：   在 System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   在 EBMTest.EBMMain.InitStreamTable() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 175
+   在 EBMTest.EBMMain..ctor() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 83
+   在 EBMTest.Program.Main(String[] args) 位置 d:\ProjectDoc\software\EBMTest\Program.cs:行号 47
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+2017/11/23 9:26:55  Main(Exception)：   在 System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   在 EBMTest.EBMMain.InitStreamTable() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 175
+   在 EBMTest.EBMMain..ctor() 位置 d:\ProjectDoc\software\EBMTest\EBMMain.cs:行号 83
+   在 EBMTest.Program.Main(String[] args) 位置 d:\ProjectDoc\software\EBMTest\Program.cs:行号 47
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
