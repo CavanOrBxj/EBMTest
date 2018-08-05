@@ -1,5 +1,5 @@
 ﻿{
-  "0": "[{\"B_Daily_cmd_tag\":1,\"Configure\":{\"Real_time\":\"2018-05-31T09:32:33\"},\"TimeSer\":\"2018/5/31 9:32:33\",\"GetSystemTime\":true,\"SendTick\":60,\"Summary\":\"2018/5/31 9:32:33\",\"SendState\":false}]",
+  "0": "[{\"B_Daily_cmd_tag\":1,\"Configure\":{\"Real_time\":\"2018-08-03T17:06:06\"},\"TimeSer\":\"2018/8/3 星期五 下午 5:06:06\",\"GetSystemTime\":true,\"SendTick\":60,\"Summary\":\"2018/8/3 星期五 下午 5:06:06\",\"SendState\":false}]",
   "1": "[{\"B_Daily_cmd_tag\":2,\"Configure\":{\"S_Phisical_address\":\"222222222222222222\",\"S_Logic_address\":\"111111111111111111\"},\"S_Logic_address\":\"111111111111111111\",\"S_Phisical_address\":\"222222222222222222\",\"Summary\":\"222222222222222222/111111111111111111\",\"SendState\":false}]",
   "2": "[{\"B_Daily_cmd_tag\":3,\"Configure\":{\"B_Terminal_wordmode\":1,\"B_Address_type\":1,\"list_Terminal_Address\":[\"222222222222222222\",\"444444444444444444\"]},\"B_Address_type\":1,\"B_Terminal_wordmode\":1,\"Summary\":\"主机全断电/逻辑地址/222222222222222222...\",\"SendState\":false}]",
   "3": "[{\"B_Daily_cmd_tag\":4,\"Configure\":{\"Freq\":123,\"SymbolRate\":345,\"QAM\":0,\"B_Address_type\":1,\"list_Terminal_Address\":[\"333333333333333333\"]},\"B_Address_type\":1,\"Freq\":123,\"QAM\":0,\"SymbolRate\":345,\"Summary\":\"123/345/16QAM/逻辑地址/...\",\"SendState\":false}]",
