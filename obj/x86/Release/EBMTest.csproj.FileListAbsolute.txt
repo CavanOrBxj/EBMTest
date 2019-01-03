@@ -196,7 +196,6 @@ E:\GitHub\EBMTest\bin\Release\EBMTableLib.dll
 E:\GitHub\EBMTest\bin\Release\Newtonsoft.Json.dll
 E:\GitHub\EBMTest\bin\Release\EBMTableLib.xml
 E:\GitHub\EBMTest\bin\Release\Newtonsoft.Json.xml
-E:\GitHub\EBMTest\obj\x86\Release\EBMTest.csprojResolveAssemblyReference.cache
 E:\GitHub\EBMTest\obj\x86\Release\EBMTest.DailyBroadcast.resources
 E:\GitHub\EBMTest\obj\x86\Release\EBMTest.DailyBroadcastInfo.resources
 E:\GitHub\EBMTest\obj\x86\Release\EBMTest.DailyBroadcastTerAddressInfo.resources
@@ -316,3 +315,6 @@ D:\GitHub\EBMTest\obj\x86\Release\EBMTest.Properties.Resources.resources
 D:\GitHub\EBMTest\obj\x86\Release\EBMTest.csproj.GenerateResource.Cache
 D:\GitHub\EBMTest\obj\x86\Release\EBMTest.exe
 D:\GitHub\EBMTest\obj\x86\Release\EBMTest.pdb
+E:\GitHub\EBMTest\obj\x86\Release\EBMTest.csprojAssemblyReference.cache
+E:\GitHub\EBMTest\obj\x86\Release\EBMTest.csproj.CoreCompileInputs.cache
+E:\GitHub\EBMTest\obj\x86\Release\EBMTest.csproj.CopyComplete
